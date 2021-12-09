@@ -1,4 +1,6 @@
   CHECKMATE
+  
+  
   It’s a brainstorming game which is modified from a chess game. In this game, you have to place chess-pieces
   as described in the upper right corner such that they won't attack each other in their first move. If your 
   move is invalid the box will be red and you lost that round. If you pass the round the box will be green. 
