@@ -1,4 +1,4 @@
-  CHECKMATE
+  ### **CHECKMATE**
   
   
   It’s a brainstorming game which is modified from a chess game. In this game, you have to place chess-pieces
@@ -8,4 +8,4 @@
   your move at a finite time limit the ghost will arrive and he will eat all your chess-pieces. Also, when 
   the ghost arrives your life will reduce. you will be given some coins in random boxes. you have to place 
   chess-pieces in those boxes to earn coins. You can't unlock a level if you don't complete the previous levels.
-  But you can unlock a level by a certain amount of coins.
+  But you can unlock a level by a certain amount of coins.See the 'Sample Video' for more details.
